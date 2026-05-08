@@ -32,7 +32,7 @@
   [Repo](https://github.com/ehsanmehrali/The-Wild-Oasis-Website) • [Live Demo](https://the-wild-oasis-booking-site.netlify.app/)
 
 - **The Wild Oasis PMS** – Hotel management system (React + advanced state management).  
-  [Repo](https://github.com/ehsanmehrali/the-wild-oasis-pms) • [Live Demo](https://the-wild-oasis-pms.netlify.app/login)
+  [Repo](https://github.com/ehsanmehrali/the-wild-oasis-pms) • [Live Demo](https://the-wild-oasis-pms.netlify.app)
 
 - **Vanlife** – Full-featured React travel app with routing and booking flow.  
   [Repo](https://github.com/ehsanmehrali/vanlife) • [Live Demo](https://vanlife428.netlify.app)
