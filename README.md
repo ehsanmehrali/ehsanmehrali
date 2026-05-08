@@ -43,6 +43,15 @@
 - **Dream Stay** – Homestays marketplace backend (Python + Flask).  
   [Repo](https://github.com/ehsanmehrali/dream_stay)
 
+  ### 🔑 Demo Accounts
+
+| Project                  | Email / Userna           | Password       |
+|--------------------------|--------------------------|----------------|
+| The Wild Oasis PMS       | ehsan@example.com        | secret123      |
+| Mobile Minimal Bankist   | js                       | 1111           |
+| Mobile Minimal Bankist   | jd                       | 2222           |
+
+
 ---
 
 ### 🎓 Education & Experience
